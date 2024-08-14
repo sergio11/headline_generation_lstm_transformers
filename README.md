@@ -51,18 +51,19 @@ pip install -r requirements.txt
    - After training, use the wrapper classes to generate headlines. These classes handle everything internally, making it easy to test the models.
    - Example usage:
      ```python
-     from LSTMWrapper import LSTMHeadlineGenerator
-     from TransformerWrapper import TransformerHeadlineGenerator
-
+     num_words_to_generate = 10
+     start_prompt = "Blockchain"
+     
      # Initialize the headline generators
      lstm_model = LSTMHeadlineGenerator()
      transformer_model = TransformerHeadlineGenerator()
 
      # Generate headlines
-     headline_lstm = lstm_model.generate('Input text for LSTM')
+     headline_lstm = lstm_model.generate_text_from_prompt(start_prompt, num_words_to_generate)
      headline_transformer = transformer_model.generate('Input text for Transformer')
 
      print("📰 LSTM Headline:", headline_lstm)
+     ''Blockchain Technology And Its Impact On The Financial Industry And Opportunities''
      print("📰 Transformer Headline:", headline_transformer)
      ```
 
