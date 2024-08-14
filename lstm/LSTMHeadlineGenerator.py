@@ -5,7 +5,7 @@ import numpy as np
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
 
-class LstmWrapper:
+class LSTMHeadlineGenerator:
     """
     A wrapper class for generating text using a pre-trained LSTM model.
 
