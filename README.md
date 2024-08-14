@@ -1,7 +1,5 @@
 # 📰 Headline Generation Models: LSTM vs. Transformers
 
-## 📝 Overview
-
 This repository explores two cutting-edge approaches to headline generation using neural networks: **Long Short-Term Memory (LSTM)** and **Transformers**. Each approach leverages different strengths of deep learning to tackle the challenge of generating coherent and contextually relevant headlines.
 
 ### 🔄 LSTM Approach
