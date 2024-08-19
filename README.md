@@ -56,15 +56,16 @@ pip install -r requirements.txt
      
      # Initialize the headline generators
      lstm_model = LSTMHeadlineGenerator()
-     transformer_model = TransformerHeadlineGenerator()
+     transformer_model = TransformersHeadlineGenerator()
 
      # Generate headlines
      headline_lstm = lstm_model.generate_text_from_prompt(start_prompt, num_words_to_generate)
-     headline_transformer = transformer_model.generate('Input text for Transformer')
+     headline_transformer = transformer_model.generate_text_from_prompt(start_prompt, num_words_to_generate)
 
      print("📰 LSTM Headline:", headline_lstm)
      ''Blockchain Technology And Its Impact On The Financial Industry And Opportunities''
      print("📰 Transformer Headline:", headline_transformer)
+     ''blockchain technology in the manufacturing : opportunities and conservation''
      ```
 
 ### 📈 Evaluation
