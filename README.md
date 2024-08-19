@@ -126,3 +126,13 @@ Special thanks to the authors of the papers and libraries used in this project, 
 
 * **Attention is All You Need** - The original Transformer paper.
 * **Hochreiter & Schmidhuber** - The original LSTM paper.
+
+## Visitors Count
+
+<img width="auto" src="https://profile-counter.glitch.me/headline_generation_lstm_transformers/count.svg" />
+
+## Please Share & Star the repository to keep me motivated.
+  <a href = "https://github.com/sergio11/headline_generation_lstm_transformers/stargazers">
+     <img src = "https://img.shields.io/github/stars/sergio11/headline_generation_lstm_transformers" />
+  </a>
+
