@@ -6,7 +6,7 @@ This repository explores two cutting-edge approaches to headline generation usin
 
 ### 🔄 LSTM Approach
 
-**Long Short-Term Memory (LSTM)** networks are a specialized type of Recurrent Neural Network (RNN) designed to capture long-term dependencies in sequential data. They are known for their ability to remember information over long sequences and maintain context, which is crucial for tasks like text generation.
+**Long Short-Term Memory (LSTM)** networks are a specialized type of **Recurrent Neural Network (RNN)** designed to capture long-term dependencies in sequential data. They are known for their ability to remember information over long sequences and maintain context, which is crucial for tasks like text generation.
 
 **Key Features of LSTMs:**
 - **Memory Cells:** LSTMs include memory cells that store information across sequences, which helps in retaining past contexts.
@@ -19,7 +19,7 @@ This repository explores two cutting-edge approaches to headline generation usin
 
 ### 🔀 Transformer Approach
 
-The **Transformer** model, introduced in the paper "Attention is All You Need," represents a significant advancement in sequence modeling. Transformers leverage self-attention mechanisms to handle long-range dependencies and process sequences in parallel.
+The **Transformer** model, introduced in the paper "Attention is All You Need," represents a significant advancement in sequence modeling. **Transformers leverage self-attention mechanisms to handle long-range dependencies and process sequences in parallel.**
 
 **Key Features of Transformers:**
 - **Self-Attention Mechanism:** This mechanism enables the model to weigh the relevance of different words in a sequence, regardless of their position, allowing for a more comprehensive understanding of context.
