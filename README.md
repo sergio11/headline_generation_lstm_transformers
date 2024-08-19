@@ -2,6 +2,16 @@
 
 This repository explores two cutting-edge approaches to headline generation using neural networks: **Long Short-Term Memory (LSTM)** and **Transformers**. Each approach leverages different strengths of deep learning to tackle the challenge of generating coherent and contextually relevant headlines.
 
+<p align="center">
+   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 ## Overview
 
 ### 🔄 LSTM Approach
@@ -130,6 +140,8 @@ Special thanks to the authors of the papers and libraries used in this project, 
 
 * **Attention is All You Need** - The original Transformer paper.
 * **Hochreiter & Schmidhuber** - The original LSTM paper.
+
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture architectures.
 
 ## Visitors Count
 
