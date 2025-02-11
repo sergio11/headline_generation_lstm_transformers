@@ -47,7 +47,6 @@ Compare **LSTM** and **Transformer** models for generating contextually relevant
 + [🩺💻 Breast Cancer Diagnosis with MLP](https://github.com/sergio11/breast_cancer_diagnosis_mlp)  
 Automate breast cancer diagnosis using a **Multi-Layer Perceptron (MLP)** model to classify tumors as benign or malignant based on biopsy data.
 
-
 ## Overview
 
 ### 🔄 LSTM Approach
