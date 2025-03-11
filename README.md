@@ -13,6 +13,10 @@ This repository explores two cutting-edge approaches to headline generation usin
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## ⚠️ Disclaimer  
+
+This project has been developed **exclusively for educational and learning purposes**. It aims to explore and compare different deep learning architectures, specifically **LSTM** and **Transformer models**, in the context of **headline generation**. The objective is to gain hands-on experience in implementing, training, and evaluating neural networks for natural language processing (NLP) tasks.  
+
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
 If you found this project intriguing, I invite you to check out my other AI and machine learning initiatives, where I tackle real-world challenges across various domains:
@@ -166,6 +170,9 @@ pip install -r requirements.txt
      print("📰 Transformer Headline:", headline_transformer) ->  'blockchain technology in the manufacturing : opportunities and conservation'
      ```
 
+## ⚠️ Disclaimer  
+
+This project has been developed **exclusively for educational and learning purposes**. It aims to explore and compare different deep learning architectures, specifically **LSTM** and **Transformer models**, in the context of **headline generation**. The objective is to gain hands-on experience in implementing, training, and evaluating neural networks for natural language processing (NLP) tasks.  
 
 ### 🤝 Contributing
 We welcome contributions! If you have ideas for improving the models, adding new features, or enhancing the documentation, feel free to fork the repository and submit a pull request. 🙌
