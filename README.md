@@ -95,10 +95,6 @@ The **Transformer** model, introduced in the paper "Attention is All You Need," 
 
 By comparing these two approaches, this project highlights their respective strengths and trade-offs in the context of headline generation. Whether you are interested in the sequential memory capabilities of LSTMs or the advanced attention mechanisms of Transformers, this repository offers a comprehensive guide to implementing and evaluating both methods.
 
-## More Details 📝
-
-For comprehensive information about this project, check out this [Medium article](https://sanchezsanchezsergio418.medium.com/lstm-vs-transformers-a-comparative-study-in-sequence-generation-310375867131).
-
 ## 📂 Repository Structure
 
 This repository is organized to provide clear and practical examples for implementing and evaluating both LSTM and Transformer-based headline generation models. The structure is designed to facilitate both hands-on experimentation and code reuse.
